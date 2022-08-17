@@ -8,15 +8,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Company</title>
-    <link href="build/styles/reset.css" rel="stylesheet">
-    <link href="build/styles/fonts.css" rel="stylesheet">
-    <link href="build/styles/index.css" rel="stylesheet">
-    <link href="build/styles/header.css" rel="stylesheet">
-    <link href="build/styles/footer.css" rel="stylesheet">
-    <link href="build/styles/companyPage.css" rel="stylesheet">
-    <link href="build/styles/brokerItem.css" rel="stylesheet">
-    <link href="build/styles/faqItem.css" rel="stylesheet">
-    <link href="build/styles/reviewItem.css" rel="stylesheet">
+    <link href="/build/styles/reset.css" rel="stylesheet">
+    <link href="/build/styles/fonts.css" rel="stylesheet">
+    <link href="/build/styles/index.css" rel="stylesheet">
+    <link href="/build/styles/header.css" rel="stylesheet">
+    <link href="/build/styles/footer.css" rel="stylesheet">
+    <link href="/build/styles/companyPage.css" rel="stylesheet">
+    <link href="/build/styles/brokerItem.css" rel="stylesheet">
+    <link href="/build/styles/faqItem.css" rel="stylesheet">
+    <link href="/build/styles/reviewItem.css" rel="stylesheet">
     <?php $this->head() ?>
 </head>
 <body>
