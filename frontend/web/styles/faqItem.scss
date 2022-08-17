@@ -1,0 +1,33 @@
+.faqItem {
+    margin-top: 5px;
+
+    &--opened {
+        .faqItem {
+            &__question {
+                color: #949492;
+
+                &Text {
+                    border-bottom: 1px solid #949492;
+                }
+            }
+        }
+    }
+
+    &__question {
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 200%;
+        color: #77B42A;
+
+        &Text {
+            border-bottom: 1px solid #77B42A;
+        }
+    }
+
+    &__answer {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 130%;
+        color: #000000;
+    }
+}

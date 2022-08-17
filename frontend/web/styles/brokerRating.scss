@@ -1,0 +1,76 @@
+.brokerRating {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    &__rate {
+        &Label {
+            font-weight: 500;
+            font-size: 24px;
+            line-height: 29px;
+            color: #000000;
+        }
+
+        &Points {
+            display: flex;
+            align-items: flex-end;
+
+            span {
+                font-weight: 400;
+                font-size: 24px;
+                line-height: 29px;
+                color: #000000;
+            }
+        }
+
+        &Stars {
+            margin-left: 5px;
+            padding-bottom: 6px;
+            display: flex;
+            align-items: center;
+            column-gap: 3px;
+        }
+    }
+
+    &__resume {
+        width: 690px;
+
+        &Label {
+            font-weight: 500;
+            font-size: 24px;
+            line-height: 130%;
+            color: #000000;
+        }
+
+        &Text {
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 21px;
+            letter-spacing: 0em;
+            text-align: left;
+        }
+    }
+
+    &__try {
+        width: 203px;
+        height: 48px;
+
+        button {
+            width: 100%;
+            height: 100%;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            background: #77B42A;
+            border-radius: 29px;
+
+            font-weight: 400;
+            font-size: 20px;
+            line-height: 24px;
+            text-align: center;
+            color: #FFFFFF;
+        }
+    }
+}

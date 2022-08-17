@@ -1,0 +1,22 @@
+.reviewItem {
+  padding: 38px 25px;
+  display: flex;
+  column-gap: 30px;
+  background: #F6F4F5;
+  border-radius: 20px;
+}
+.reviewItem__name {
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 39px;
+  color: #000000;
+}
+.reviewItem__description {
+  margin-top: 23px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+  color: #000000;
+}
+
+/*# sourceMappingURL=reviewItem.css.map */

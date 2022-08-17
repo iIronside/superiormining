@@ -1,0 +1,84 @@
+.brokerPage {
+  font-family: "Inter";
+}
+.brokerPage * {
+  font-family: "Inter";
+}
+.brokerPage__title {
+  font-family: "Lato";
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 38px;
+  color: #000000;
+  text-align: center;
+}
+.brokerPage__logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px 0;
+}
+.brokerPage__description {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+  color: #000000;
+}
+.brokerPage__rating {
+  margin-top: 26px;
+}
+.brokerPage__tariffs {
+  margin-top: 60px;
+  margin-bottom: 10px;
+  padding: 40px 0;
+  background: #FFFFFF;
+  box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.15);
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.brokerPage__tariffsItem {
+  width: 33%;
+}
+.brokerPage__about {
+  margin-top: 50px;
+}
+.brokerPage__aboutTitle {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  color: #000000;
+}
+.brokerPage__aboutText {
+  margin-top: 22px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+}
+.brokerPage__discount {
+  margin-top: 40px;
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+}
+.brokerPage__discount button {
+  width: 85%;
+  min-width: 480px;
+  height: 100%;
+  border-radius: 29px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+}
+.brokerPage__reviews {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+
+/*# sourceMappingURL=brokerPage.css.map */

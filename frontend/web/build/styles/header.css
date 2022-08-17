@@ -1,0 +1,65 @@
+.header {
+  padding: 13px 96px 13px 46px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Inter";
+}
+.header__logo {
+  width: 232px;
+  height: 95px;
+}
+.header__menu {
+  display: flex;
+  align-items: center;
+  column-gap: 30px;
+}
+.header__menuToggler {
+  position: relative;
+  display: flex;
+  align-items: center;
+  column-gap: 5px;
+}
+.header__menuPages {
+  width: 172px;
+  position: absolute;
+  top: 45px;
+  left: 30px;
+  background: #FFFFFF;
+  box-shadow: 4px 4px 15px rgba(119, 180, 42, 0.15);
+  border-radius: 15px;
+}
+.header__menuPages li {
+  padding: 10px 18px;
+  border-bottom: 1px solid rgba(119, 180, 42, 0.15);
+  font-size: 16px;
+  line-height: 19px;
+}
+.header__menuPages li a {
+  color: #000000;
+}
+.header__menuPages li:last-child {
+  border: none;
+}
+.header__signIn, .header__signUp {
+  width: 93px;
+  height: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+}
+.header__signIn {
+  background: #77B42A;
+  border-radius: 25px;
+}
+.header__signIn a {
+  color: #FFFFFF;
+}
+.header__signUp a {
+  color: #77B42A;
+}
+
+/*# sourceMappingURL=header.css.map */

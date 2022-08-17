@@ -1,0 +1,19 @@
+.footer {
+    padding: 32px 60px;
+    background: #77B42A;
+
+    font-family: 'Inter';
+
+    .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    &__copyright {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        color: #FFFFFF;
+    }
+}

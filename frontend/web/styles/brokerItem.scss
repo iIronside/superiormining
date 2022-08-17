@@ -1,0 +1,184 @@
+.brokerItem {
+    font-family: 'Inter';
+    width: 100%;
+    height: 124px;
+    margin-bottom: 30px;
+
+    background: #FFFFFF;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+
+    &--expanded {
+        border: 2px solid #77B42A;
+        height: auto;
+
+        .brokerItem__details {
+            button {
+                color: #949492;
+            }
+        }
+
+        .brokerItem__description {
+            padding: 36px 24px;
+            border-top: 1px solid #D9D9D9;
+
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 130%;
+            color: #000000;
+
+            a {
+                margin-top: 10px;
+                font-weight: 500;
+                font-size: 14px;
+                line-height: 17px;
+                text-decoration: underline;
+                color: #77B42A;
+            }
+        }
+    }
+
+    * {
+        font-family: 'Inter';
+    }
+
+    &:first-child {
+        .brokerItem {
+            &__contract, &__profit {
+                color: #77B42A;
+            }
+        }
+    }
+
+    &__main {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+
+    &__logo {
+        padding-left: 20px;
+        width: 25%;
+
+        &--letMeCloud {
+            width: 137px;
+            height: 80px;
+        }
+
+        &--IQMining {
+            width: 207px;
+            height: 97px;
+        }
+
+        &--Ecos {
+            width: 189px;
+            height: 118px;
+        }
+
+        &--GMining {
+            width: 208px;
+            height: 60px;
+        }
+
+        &--HashShiny {
+            width: 249px;
+            height: 74px;
+        }
+    }
+
+    &__rating {
+        width: 15%;
+
+        &Points {
+            font-weight: 600;
+            font-size: 32px;
+            line-height: 39px;
+            color: #77B42A;
+        }
+    }
+
+    &__review {
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 17px;
+        text-decoration: underline;
+        color: #77B42A;
+        cursor: pointer;
+    }
+
+    &__contract {
+        width: 10%;
+
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 36px;
+        text-align: center;
+        color: #000000;
+    }
+
+    &__profit {
+        width: 10%;
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 36px;
+        text-align: center;
+        color: #000000;
+    }
+
+    &__promotion {
+        width: 14%;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        color: #000000;
+        padding-right: 20px;
+
+        &Title {
+            font-weight: 600;
+            font-size: 18px;
+            line-height: 22px;
+            color: #000000;
+        }
+
+        &Subtitle {
+            font-size: 12px;
+            font-weight: 300;
+            line-height: 15px;
+        }
+    }
+
+    &__more {
+        width: 13%;
+
+        button {
+            width: 124px;
+            height: 36px;
+
+            background: #77B42A;
+            border-radius: 25px;
+
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 19px;
+            color: #FFFFFF;
+        }
+    }
+
+    &__details {
+        width: 13%;
+
+        button {
+            width: 124px;
+            height: 36px;
+
+            background-color: transparent;
+            font-weight: 600;
+            font-size: 16px;
+            line-height: 19px;
+
+            color: #77B42A;
+            text-decoration: underline;
+        }
+    }
+}

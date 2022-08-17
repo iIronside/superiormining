@@ -1,0 +1,26 @@
+.faqItem {
+  margin-top: 5px;
+}
+.faqItem--opened .faqItem__question {
+  color: #949492;
+}
+.faqItem--opened .faqItem__questionText {
+  border-bottom: 1px solid #949492;
+}
+.faqItem__question {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 200%;
+  color: #77B42A;
+}
+.faqItem__questionText {
+  border-bottom: 1px solid #77B42A;
+}
+.faqItem__answer {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 130%;
+  color: #000000;
+}
+
+/*# sourceMappingURL=faqItem.css.map */

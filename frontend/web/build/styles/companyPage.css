@@ -1,0 +1,183 @@
+.companyPage {
+  font-family: "Montserrat";
+}
+.companyPage * {
+  font-family: "Montserrat";
+}
+.companyPage__description {
+  padding-bottom: 60px;
+}
+.companyPage__title {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 44px;
+  color: #000000;
+}
+.companyPage__title strong {
+  font-weight: 600;
+  color: #77B42A;
+}
+.companyPage__about {
+  margin-top: 25px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+  color: #000000;
+}
+.companyPage__subtitle {
+  margin-top: 50px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 140%;
+  color: #77B42A;
+}
+.companyPage__info {
+  margin-top: 50px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 140%;
+  color: #000000;
+}
+.companyPage__infoAbout {
+  margin-top: 8px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+  color: #000000;
+}
+.companyPage__video {
+  padding-top: 64px;
+  background: #F5F5F5;
+  position: relative;
+}
+.companyPage__video .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.companyPage__videoLogo {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+  top: -40px;
+  width: 80px;
+  height: 80px;
+  background: #77B42A;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 59px;
+  color: #FFFFFF;
+}
+.companyPage__videoTitle {
+  margin-top: 25px;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 49px;
+  color: #000000;
+  text-align: center;
+}
+.companyPage__videoTitle strong {
+  font-weight: 600;
+}
+.companyPage__videoSubtitle {
+  width: 390px;
+  margin: 15px auto;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #000000;
+}
+.companyPage__videoPlayer {
+  margin-top: 35px;
+}
+.companyPage__videoListTop5 {
+  margin: 62px auto;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+  color: #000000;
+}
+.companyPage__videoListTop5 strong {
+  color: #77B42A;
+}
+.companyPage__brokers {
+  padding: 100px 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.companyPage__brokersTitle {
+  margin: 40px 0;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 44px;
+  text-align: center;
+  color: #000000;
+}
+.companyPage__brokersTitle strong {
+  font-weight: 600;
+}
+.companyPage__brokersParams {
+  margin-top: 30px;
+  margin-bottom: 19px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 13px;
+  color: #08212E;
+}
+.companyPage__brokersParams .brokerParam--logo {
+  width: 25%;
+}
+.companyPage__brokersParams .brokerParam--rating {
+  width: 15%;
+}
+.companyPage__brokersParams .brokerParam--contract {
+  width: 10%;
+  text-align: center;
+}
+.companyPage__brokersParams .brokerParam--profit {
+  width: 10%;
+  text-align: center;
+}
+.companyPage__brokersParams .brokerParam--promotion {
+  width: 14%;
+}
+.companyPage__brokersParams .brokerParam--more {
+  width: 13%;
+}
+.companyPage__brokersParams .brokerParam--details {
+  width: 13%;
+}
+.companyPage__brokersRows {
+  width: 100%;
+}
+.companyPage__faqTitle {
+  display: flex;
+  align-items: center;
+}
+.companyPage__faqTitle h3 {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 44px;
+  color: #000000;
+  margin-right: 15px;
+}
+.companyPage__faqList {
+  margin-top: 25px;
+}
+.companyPage__reviews {
+  margin-top: 79px;
+}
+
+/*# sourceMappingURL=companyPage.css.map */

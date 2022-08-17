@@ -1,0 +1,62 @@
+.userPage {
+  display: flex;
+}
+.userPage__wrapper {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+.userPage__wrapper:first-child {
+  width: 40%;
+  align-items: center;
+}
+.userPage__link {
+  margin-top: 15px;
+  width: 270px;
+  height: 50px;
+  background: #FFFFFF;
+  border: 0.5px solid #77B42A;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;
+}
+.userPage__link--reviews {
+  background: #65A535;
+  color: #FFFFFF;
+}
+.userPage__name {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 39px;
+  color: #000000;
+}
+.userPage__description {
+  margin-top: 20px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+  color: #000000;
+}
+.userPage__about {
+  margin-top: 30px;
+}
+.userPage__aboutTitle {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 140%;
+  color: #000000;
+}
+.userPage__aboutText {
+  margin-top: 10px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+  color: #000000;
+}
+
+/*# sourceMappingURL=userPage.css.map */

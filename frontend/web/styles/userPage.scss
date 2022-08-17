@@ -1,0 +1,72 @@
+.userPage {
+    display: flex;
+
+    &__wrapper {
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+
+        &:first-child {
+            width: 40%;
+            align-items: center;
+        }
+    }
+
+    &__link {
+        margin-top: 15px;
+        width: 270px;
+        height: 50px;
+
+        background: #FFFFFF;
+        border: 0.5px solid #77B42A;
+        border-radius: 20px;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        color: #000000;
+
+        &--reviews {
+            background: #65A535;
+            color: #FFFFFF;
+        }
+    }
+
+    &__name {
+        font-weight: 600;
+        font-size: 32px;
+        line-height: 39px;
+        color: #000000;
+    }
+
+    &__description {
+        margin-top: 20px;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 140%;
+        color: #000000;
+    }
+
+    &__about {
+        margin-top: 30px;
+
+        &Title {
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 140%;
+            color: #000000;
+        }
+
+        &Text {
+            margin-top: 10px;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 140%;
+            color: #000000;
+        }
+    }
+}
