@@ -56,7 +56,7 @@
                     There is all answers you need to know! Our expert have
                     over 10 years of expirience in cloud mining
                 </h5>
-                <video class="companyPage__videoPlayer" src="" poster="media/images/poster.png"></video>
+                <video controls class="companyPage__videoPlayer" src="media/videos/video.mp4" poster="media/images/poster.png"></video>
                 <div class="companyPage__videoListTop5">Or go down below to see the list of <strong>TOP 5</strong></div>
             </div>
         </div>
