@@ -14,6 +14,7 @@
     <link href="/build/styles/brokerPage.css" rel="stylesheet">
     <link href="/build/styles/brokerRating.css" rel="stylesheet">
     <link href="/build/styles/reviewItem.css" rel="stylesheet">
+    <link href="/build/styles/tariffItem.css" rel="stylesheet">
     <?php $this->head() ?>
 </head>
 <body>
