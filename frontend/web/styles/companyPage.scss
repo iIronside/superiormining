@@ -111,10 +111,6 @@
         &Player {
             margin: 35px auto 0 auto;
             width: 75%;
-
-            video::-webkit-media-controls-overlay-play-button {
-                display: none;
-            }
         }
 
         &ListTop5 {
