@@ -78,7 +78,7 @@
 
             <div class="companyPage__brokersRows">
                 <div class="companyPage__brokersRowsItem brokerItem">
-                    <div class="brokerItem__main">
+                    <a href="/broker/let-me-cloud" class="brokerItem__main">
                         <div class="brokerItem__logo">
                             <img class="brokerItem__logo--letMeCloud" src="media/images/letMeCloudLogo.png" alt="">
                         </div>
@@ -111,11 +111,11 @@
                         <div class="brokerItem__details">
                             <button>Open details</button>
                         </div>
-                    </div>
+                    </a>
                 </div>
 
                 <div class="companyPage__brokersRowsItem brokerItem brokerItem--expanded">
-                    <div class="brokerItem__main">
+                    <a href="/broker/iq-mining" class="brokerItem__main">
                         <div class="brokerItem__logo">
                             <img class="brokerItem__logo--IQMining" src="media/images/IQMiningLogo.png" alt="">
                         </div>
@@ -144,7 +144,7 @@
                         <div class="brokerItem__details">
                             <button>Close details</button>
                         </div>
-                    </div>
+                    </a>
                     <div class="brokerItem__description">
                         <p>
                             No matter how you look at it, IQMining seems like real pros in digital currency and mining.
@@ -155,7 +155,7 @@
                 </div>
 
                 <div class="companyPage__brokersRowsItem brokerItem">
-                    <div class="brokerItem__main">
+                    <a href="/broker/ecos" class="brokerItem__main">
                         <div class="brokerItem__logo">
                             <img class="brokerItem__logo--Ecos" src="media/images/EcosLogo.png" alt="">
                         </div>
@@ -184,11 +184,11 @@
                         <div class="brokerItem__details">
                             <button>Open details</button>
                         </div>
-                    </div>
+                    </a>
                 </div>
 
                 <div class="companyPage__brokersRowsItem brokerItem">
-                    <div class="brokerItem__main">
+                    <a href="/broker/gmining" class="brokerItem__main">
                         <div class="brokerItem__logo">
                             <img class="brokerItem__logo--GMining" src="media/images/GMiningLogo.png" alt="">
                         </div>
@@ -221,11 +221,11 @@
                         <div class="brokerItem__details">
                             <button>Open details</button>
                         </div>
-                    </div>
+                    </a>
                 </div>
 
                 <div class="companyPage__brokersRowsItem brokerItem">
-                    <div class="brokerItem__main">
+                    <a href="/broker/hash-shiny" class="brokerItem__main">
                         <div class="brokerItem__logo">
                             <img class="brokerItem__logo--HashShiny" src="media/images/HashShinyLogo.png" alt="">
                         </div>
@@ -254,7 +254,7 @@
                         <div class="brokerItem__details">
                             <button>Open details</button>
                         </div>
-                    </div>
+                    </a>
                 </div>
             </div>
 
