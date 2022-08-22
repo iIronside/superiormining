@@ -40,8 +40,8 @@
             <div class="brokerRating__resume">
                 <h4 class="brokerRating__resumeLabel">Our resume:</h4>
                 <p class="brokerRating__resumeText">
-                    No matter how you look at it, IQMining seems like real pros in digital currency and mining.
-                    If you are going to try yourself in cloud mining, their website can be exactly recommended.
+                    No matter how you look at it, IQMining seems like real pros in digital currency and mining. If you
+                    are going to try yourself in cloud mining, their website can be exactly recommended.
                 </p>
             </div>
 
@@ -67,8 +67,7 @@
                 first and second name, real phone number, email address, and password). Do not forget it is
                 always better to read the Terms and Conditions section before signing up. The next step is
                 purchasing a contract, and right after it is done, you can start cloud mining. So as you can see,
-                it's easy to start, and nothing special to talk about here.IQMining offers not only regular but as well
-                'Pro' contracts with an extra 20% interest per year.
+                it's easy to start, and nothing special to talk about here.IQMining offers not only regular but as well 'Pro' contracts with an extra 20% interest per year.
                 The cost and profitability of a cloud mining contract depend on the power you rent (the hash rate
                 that is measured in GH/s). All offers include stable daily payouts in the currency of the contract.
                 Users purchase one-year, two-years, five-years, and even a lifetime contract on the IQMining
@@ -97,8 +96,8 @@
                         Marti Lyle
                     </h4>
                     <p class="reviewItem__description">
-                        Jacob is finance staff writer, and columnist at Superior- Mining. He has written about cloud mining and other financial and investment
-                        topics since 2012. He previously wrote for several worldwide known businesses tabloids. Jacob currently works as a freelance business
+                        Marti is a finance staff writer, reporter, and columnist at Superior-Mining. He has written about cloud mining and other financial and investment topics since 2012. He previously wrote for
+                        several worldwide known businesses tabloids. Marti currently works as a freelance business
                         producer for several big companies.
                     </p>
                 </div>

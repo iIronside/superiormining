@@ -63,7 +63,8 @@
                 installed in Myanmar and Kazakhstan. HashShiny data centers contain over 15 thousand ASICs
                 and GPU rigs.
                 Our cloud mining experience with HashShiny was nothing but excellent. It is really easy to open
-                an account, get verified, and start earning digital currency on their website. The registration process is typical. You have to fill out a form, confirm your email address, and verify your identity
+                an account, get verified, and start earning digital currency on their website. The registration
+                process is typical. You have to fill out a form, confirm your email address, and verify your identity
                 to start making money. Users also can sign up with popular social media, such as Google and
                 Facebook. Note earning process starts automatically within just an hour after you purchase the
                 cloud mining contract and get rented hash power.
@@ -94,8 +95,8 @@
                         Marti Lyle
                     </h4>
                     <p class="reviewItem__description">
-                        Jacob is finance staff writer, and columnist at Superior- Mining. He has written about cloud mining and other financial and investment
-                        topics since 2012. He previously wrote for several worldwide known businesses tabloids. Jacob currently works as a freelance business
+                        Marti is a finance staff writer, reporter, and columnist at Superior-Mining. He has written about cloud mining and other financial and investment topics since 2012. He previously wrote for
+                        several worldwide known businesses tabloids. Marti currently works as a freelance business
                         producer for several big companies.
                     </p>
                 </div>

@@ -16,7 +16,7 @@
             Gmining is an online and mobile cloud mining company. Despite the platform being launched in
             2018, it has over three thousand active users so far who invest in digital cloud mining contracts.
             The provider has numerous press mentions in plenty of worldwide business tabloids. Gmining is a certified and
-            regulated company that works under the law of GreatBritain.
+            regulated company that works under the law of Great Britain.
         </p>
 
         <div class="brokerPage__rating brokerRating">
@@ -91,8 +91,8 @@
                         Marti Lyle
                     </h4>
                     <p class="reviewItem__description">
-                        Jacob is finance staff writer, and columnist at Superior- Mining. He has written about cloud mining and other financial and investment
-                        topics since 2012. He previously wrote for several worldwide known businesses tabloids. Jacob currently works as a freelance business
+                        Marti is a finance staff writer, reporter, and columnist at Superior-Mining. He has written about cloud mining and other financial and investment topics since 2012. He previously wrote for
+                        several worldwide known businesses tabloids. Marti currently works as a freelance business
                         producer for several big companies.
                     </p>
                 </div>

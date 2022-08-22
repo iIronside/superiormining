@@ -153,7 +153,8 @@
                 payment method to make a payment. Our bottom line: the signing up procedure is really simple,
                 and the interface (including account and payment section) is really intuitive and user-friendly. All
                 information is protected by 3D Secure and SSL 256-bit encryption algorithms.
-                At the current moment, several different miners are available on the LET ME CLOUD ® website. The company created an online income calculator that helps to estimate possible profit from cloud
+                At the current moment, several different miners are available on the LET ME CLOUD ® website. The
+                company created an online income calculator that helps to estimate possible profit from cloud
                 mining depending on different criteria (such as the initial amount and hash rate). You can
                 choose a Lite Power or Pro Power option on LET ME CLOUD ®. Notice that the entry amount, and
                 thereby, hash power strongly affect the yield rate and returns from cloud mining. Customers are
@@ -179,8 +180,8 @@
                         Marti Lyle
                     </h4>
                     <p class="reviewItem__description">
-                        Jacob is finance staff writer, and columnist at Superior- Mining. He has written about cloud mining and other financial and investment
-                        topics since 2012. He previously wrote for several worldwide known businesses tabloids. Jacob currently works as a freelance business
+                        Marti is a finance staff writer, reporter, and columnist at Superior-Mining. He has written about cloud mining and other financial and investment topics since 2012. He previously wrote for
+                        several worldwide known businesses tabloids. Marti currently works as a freelance business
                         producer for several big companies.
                     </p>
                 </div>

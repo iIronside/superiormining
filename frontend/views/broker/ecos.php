@@ -40,8 +40,8 @@
                 <div class="brokerRating__resume">
                     <h4 class="brokerRating__resumeLabel">Our resume:</h4>
                     <p class="brokerRating__resumeText">
-                        Really good cloud mining provider with a large variety of efficient tools for all kinds of digital
-                        currency investors. Low commissions and reasonable prices are included.
+                       Really good cloud mining provider with a large variety of efficient tools for all kinds of digital
+                       currency investors. Low commissions and reasonable prices are included.
                     </p>
                 </div>
 
@@ -71,7 +71,8 @@
                     You can easily find a variety of offers in the Cloud Mining section on the ECOS website. The
                     company offers easy access to real mining power without installing any hardware under different
                     kinds of contracts. It is very easy to use an online cloud mining calculator to calculate the total
-                    hash power, income amount, and profitability of each tariff plan. All you have to do to purchase acontract is just make a deposit via credit card, bank invoice, or digital currencies. Users can
+                    hash power, income amount, and profitability of each tariff plan. All you have to do to purchase a
+                    contract is just make a deposit via credit card, bank invoice, or digital currencies. Users can
                     send ECOS cloud mining contracts as gifts for their friends, and it is another helpful option on
                     the website.
                 </p>
@@ -95,8 +96,8 @@
                             Marti Lyle
                         </h4>
                         <p class="reviewItem__description">
-                            Jacob is finance staff writer, and columnist at Superior- Mining. He has written about cloud mining and other financial and investment
-                            topics since 2012. He previously wrote for several worldwide known businesses tabloids. Jacob currently works as a freelance business
+                            Marti is a finance staff writer, reporter, and columnist at Superior-Mining. He has written about cloud mining and other financial and investment topics since 2012. He previously wrote for
+                            several worldwide known businesses tabloids. Marti currently works as a freelance business
                             producer for several big companies.
                         </p>
                     </div>

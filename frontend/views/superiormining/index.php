@@ -365,8 +365,8 @@
                             Marti Lyle
                         </h4>
                         <p class="reviewItem__description">
-                            Marti is finance staff writer, and columnist at Superior- Mining. He has written about cloud mining and other financial and investment
-                            topics since 2012. He previously wrote for several worldwide known businesses tabloids. Marti currently works as a freelance business
+                            Marti is a finance staff writer, reporter, and columnist at Superior-Mining. He has written about cloud mining and other financial and investment topics since 2012. He previously wrote for
+                            several worldwide known businesses tabloids. Marti currently works as a freelance business
                             producer for several big companies.
                         </p>
                     </div>
