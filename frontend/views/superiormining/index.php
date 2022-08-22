@@ -276,6 +276,10 @@
                         <span class="faqItem__questionExpander">+</span>
                         <span class="faqItem__questionText">What ic cloud mining?</span>
                     </div>
+                    <div class="faqItem__answer">
+                        In basic, cloud mining is a cloud technology that allows to mine digital currency without installing
+                        and maintaining any special equipment.
+                    </div>
                 </div>
 
                 <div class="companyPage__faqItem faqItem faqItem--opened">
@@ -284,8 +288,9 @@
                         <span class="faqItem__questionText">How much money do I need to start cloud mining?</span>
                     </div>
                     <div class="faqItem__answer">
-                        Most trusted companies offer customers to start with really small initial amounts. For instance, you can
-                        purchase a cloud mining contract for a few hundred dollars on the most trustworthy platforms.
+                        Most trusted companies offer customers to start with really small initial amounts. For instance,
+                        you can purchase a cloud mining contract for a few hundred dollars on the most trustworthy
+                        platforms.
                     </div>
                 </div>
 
@@ -294,12 +299,23 @@
                         <span class="faqItem__questionExpander">+</span>
                         <span class="faqItem__questionText">Is it difficult to earn with cloud mining? Should I have any particular knowledge?</span>
                     </div>
+                    <div class="faqItem__answer">
+                        One of the key things about cloud mining technology is its simplicity. It is affordable literally for
+                        everyone who wishes to make money, even for those who do not have large amounts yet. The
+                        entire process is also very simple, so any specific knowledge (including financial and technical)
+                        is not required.
+                    </div>
                 </div>
 
                 <div class="companyPage__faqItem faqItem">
                     <div class="faqItem__question">
                         <span class="faqItem__questionExpander">+</span>
                         <span class="faqItem__questionText">What is the payback period in cloud mining?</span>
+                    </div>
+                    <div class="faqItem__answer">
+                        On most cloud mining platforms, you can get your money back within six or seven months,
+                        depending on the chosen contract, initial amount, and profitability rates. A payback period
+                        depends on the current value of the digital currency as well.
                     </div>
                 </div>
 
@@ -308,6 +324,10 @@
                         <span class="faqItem__questionExpander">+</span>
                         <span class="faqItem__questionText">What should I do to make money with cloud mining?</span>
                     </div>
+                    <div class="faqItem__answer">
+                        The investor is not actively involved in the business process of cloud mining. You can make
+                        money by doing almost nothing. Just control the process and check your mining statistics time after time.
+                    </div>
                 </div>
 
                 <div class="companyPage__faqItem faqItem">
@@ -315,12 +335,22 @@
                         <span class="faqItem__questionExpander">+</span>
                         <span class="faqItem__questionText">How can I choose a trusted cloud mining company?</span>
                     </div>
+                    <div class="faqItem__answer">
+                        Since a lot of suspicious and fraudulent projects stick around, you should select a cloud mining
+                        provider carefully. Use trusted web sources when you pick a cloud platform to start investing in
+                        cloud mining contracts. Our experts are here to highlight the most profitable and trustworthy
+                        companies and their products.
+                    </div>
                 </div>
 
                 <div class="companyPage__faqItem faqItem">
                     <div class="faqItem__question">
                         <span class="faqItem__questionExpander">+</span>
                         <span class="faqItem__questionText">What is the profitability of cloud mining?</span>
+                    </div>
+                    <div class="faqItem__answer">
+                        It depends on the selected provider and contract. On most trusted cloud platforms, current yield
+                        rates start at 140-150%.
                     </div>
                 </div>
             </div>
