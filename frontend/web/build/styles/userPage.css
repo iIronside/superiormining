@@ -1,5 +1,6 @@
 .userPage {
   display: flex;
+  font-family: "Inter";
 }
 .userPage__wrapper {
   width: 50%;

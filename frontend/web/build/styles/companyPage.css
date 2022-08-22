@@ -97,9 +97,6 @@
   margin: 35px auto 0 auto;
   width: 75%;
 }
-.companyPage__videoPlayer video::-webkit-media-controls-overlay-play-button {
-  display: none;
-}
 .companyPage__videoListTop5 {
   margin: 62px auto;
   font-weight: 700;

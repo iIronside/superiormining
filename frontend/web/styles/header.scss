@@ -15,38 +15,29 @@
         display: flex;
         align-items: center;
         column-gap: 30px;
+    }
+
+    &__nav {
+        position: relative;
 
         &Toggler {
             position: relative;
+            z-index: 10;
             display: flex;
             align-items: center;
             column-gap: 5px;
         }
 
-        &Pages {
-            width: 172px;
-            position: absolute;
-            top: 45px;
-            left: 30px;
-
-            background: #FFFFFF;
-            box-shadow: 4px 4px 15px rgba(119, 180, 42, 0.15);
-            border-radius: 15px;
-
-            li {
-                padding: 10px 18px;
-                border-bottom: 1px solid rgba(119, 180, 42, 0.15);
-                font-size: 16px;
-                line-height: 19px;
-
-                a {
-                    color: #000000;
-                }
-
-                &:last-child {
-                    border: none;
-                }
+        &:hover {
+            .nav {
+                display: initial;
             }
+        }
+    }
+
+    &__search {
+        &Input {
+            display: none;
         }
     }
 
@@ -74,5 +65,42 @@
 
     &__signUp a {
         color: #77B42A;
+    }
+}
+
+.nav {
+    display: none;
+    position: absolute;
+    z-index: 9;
+    top: -10px;
+    left: -10px;
+    width: calc(100% + 30px);
+    padding: 20px 20px 5px 35px;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 15px rgba(119, 180, 42, 0.15);
+    border-radius: 15px;
+    background: #FFFFFF;
+
+    &__header {
+        height: 45px;
+        border-bottom: 1px solid rgba(119, 180, 42, 0.15);
+    }
+
+    &__pages {
+        border-radius: 15px;
+
+        li {
+            padding: 10px 18px;
+            font-size: 16px;
+            line-height: 19px;
+
+            a {
+                color: #000000;
+            }
+
+            &:last-child {
+                border: none;
+            }
+        }
     }
 }

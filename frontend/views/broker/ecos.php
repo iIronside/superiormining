@@ -1,8 +1,16 @@
-<h2 class="brokerPage__title">
+    <main class="container" >
+        <div class="brokerPage">
+            <div class="breadcrumbs">
+                <img class="breadcrumbs__home" src="../media/images/home.svg" alt="">
+                <span class="breadcrumbs__separator">/</span>
+                <span class="breadcrumbs__page">ECOS</span>
+            </div>
+
+            <h2 class="brokerPage__title">
                 ECOS
             </h2>
             <div class="brokerPage__logo">
-                <img src="/media/images/EcosLogo.png" alt="">
+                <img src="../media/images/EcosLogo.png" alt="">
             </div>
             <p class="brokerPage__description">
                 ECOS is a cloud mining provider that offers to rent hash power and the real capacity of mining
@@ -20,11 +28,11 @@
                     <div class="brokerRating__ratePoints">
                         <span>4.0</span>
                         <div class="brokerRating__rateStars">
-                            <img src="/media/images/star.png" alt="">
-                            <img src="/media/images/star.png" alt="">
-                            <img src="/media/images/star.png" alt="">
-                            <img src="/media/images/star.png" alt="">
-                            <img src="/media/images/star--empty.png" alt="">
+                            <img src="../media/images/star.png" alt="">
+                            <img src="../media/images/star.png" alt="">
+                            <img src="../media/images/star.png" alt="">
+                            <img src="../media/images/star.png" alt="">
+                            <img src="../media/images/star--empty.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -81,7 +89,7 @@
 
             <div class="brokerPage__reviews">
                 <div class="brokerPage__reviewsItem reviewItem">
-                    <img class="reviewItem__avatar" src="/media/images/reviewAvatar.png" alt="">
+                    <img class="reviewItem__avatar" src="../media/images/reviewAvatar.png" alt="">
                     <div class="reviewItem__text">
                         <h4 class="reviewItem__name">
                             Marti Lyle
@@ -94,3 +102,5 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </main>

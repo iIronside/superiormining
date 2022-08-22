@@ -78,7 +78,7 @@
 
             <div class="companyPage__brokersRows">
                 <div class="companyPage__brokersRowsItem brokerItem">
-                    <a href="/broker/let-me-cloud" class="brokerItem__main">
+                    <div class="brokerItem__main">
                         <div class="brokerItem__logo">
                             <img class="brokerItem__logo--letMeCloud" src="media/images/letMeCloudLogo.png" alt="">
                         </div>
@@ -89,7 +89,7 @@
                                 <span>5</span>
                             </div>
                             <div class="brokerItem__review">
-                                Read full review
+                                <a href="/broker/let-me-cloud">Read full review</a>
                             </div>
                         </div>
                         <div class="brokerItem__contract">
@@ -106,16 +106,17 @@
                             </div>
                         </div>
                         <div class="brokerItem__more">
-                            <button>Learn more</button>
+                            <a href="/broker/let-me-cloud">Learn more</a>
                         </div>
                         <div class="brokerItem__details">
                             <button>Open details</button>
                         </div>
-                    </a>
+                    </div>
+                    <div class="brokerItem__description"></div>
                 </div>
 
                 <div class="companyPage__brokersRowsItem brokerItem brokerItem--expanded">
-                    <a href="/broker/iq-mining" class="brokerItem__main">
+                    <div class="brokerItem__main">
                         <div class="brokerItem__logo">
                             <img class="brokerItem__logo--IQMining" src="media/images/IQMiningLogo.png" alt="">
                         </div>
@@ -126,7 +127,7 @@
                                 <span>5</span>
                             </div>
                             <div class="brokerItem__review">
-                                Read full review
+                                <a href="/broker/iq-mining">Read full review</a>
                             </div>
                         </div>
                         <div class="brokerItem__contract">
@@ -139,12 +140,12 @@
                             Available 5 years contracts
                         </div>
                         <div class="brokerItem__more">
-                            <button>Learn more</button>
+                            <a href="/broker/iq-mining">Learn more</a>
                         </div>
                         <div class="brokerItem__details">
                             <button>Close details</button>
                         </div>
-                    </a>
+                    </div>
                     <div class="brokerItem__description">
                         <p>
                             No matter how you look at it, IQMining seems like real pros in digital currency and mining.
@@ -155,7 +156,7 @@
                 </div>
 
                 <div class="companyPage__brokersRowsItem brokerItem">
-                    <a href="/broker/ecos" class="brokerItem__main">
+                    <div class="brokerItem__main">
                         <div class="brokerItem__logo">
                             <img class="brokerItem__logo--Ecos" src="media/images/EcosLogo.png" alt="">
                         </div>
@@ -166,7 +167,7 @@
                                 <span>5</span>
                             </div>
                             <div class="brokerItem__review">
-                                Read full review
+                                <a href="/broker/ecos">Read full review</a>
                             </div>
                         </div>
                         <div class="brokerItem__contract">
@@ -179,16 +180,17 @@
                             New User Get 50 TH/s Bonus for 1 month
                         </div>
                         <div class="brokerItem__more">
-                            <button>Learn more</button>
+                            <a href="/broker/ecos">Learn more</a>
                         </div>
                         <div class="brokerItem__details">
                             <button>Open details</button>
                         </div>
-                    </a>
+                    </div>
+                    <div class="brokerItem__description"></div>
                 </div>
 
                 <div class="companyPage__brokersRowsItem brokerItem">
-                    <a href="/broker/gmining" class="brokerItem__main">
+                    <div class="brokerItem__main">
                         <div class="brokerItem__logo">
                             <img class="brokerItem__logo--GMining" src="media/images/GMiningLogo.png" alt="">
                         </div>
@@ -199,7 +201,7 @@
                                 <span>5</span>
                             </div>
                             <div class="brokerItem__review">
-                                Read full review
+                                <a a href="/broker/gmining">Read full review</a>
                             </div>
                         </div>
                         <div class="brokerItem__contract">
@@ -216,16 +218,17 @@
                             </div>
                         </div>
                         <div class="brokerItem__more">
-                            <button>Learn more</button>
+                            <a href="/broker/gmining">Learn more</a>
                         </div>
                         <div class="brokerItem__details">
                             <button>Open details</button>
                         </div>
-                    </a>
+                    </div>
+                    <div class="brokerItem__description"></div>
                 </div>
 
                 <div class="companyPage__brokersRowsItem brokerItem">
-                    <a href="/broker/hash-shiny" class="brokerItem__main">
+                    <div class="brokerItem__main">
                         <div class="brokerItem__logo">
                             <img class="brokerItem__logo--HashShiny" src="media/images/HashShinyLogo.png" alt="">
                         </div>
@@ -236,7 +239,7 @@
                                 <span>5</span>
                             </div>
                             <div class="brokerItem__review">
-                                Read full review
+                                <a href="/broker/hash-shiny">Read full review</a>
                             </div>
                         </div>
                         <div class="brokerItem__contract">
@@ -249,12 +252,13 @@
                             New User Get 5 TH/S Hash Rate For Free
                         </div>
                         <div class="brokerItem__more">
-                            <button>Learn more</button>
+                            <a href="/broker/hash-shiny">Learn more</a>
                         </div>
                         <div class="brokerItem__details">
                             <button>Open details</button>
                         </div>
-                    </a>
+                    </div>
+                    <div class="brokerItem__description"></div>
                 </div>
             </div>
 
@@ -274,7 +278,7 @@
                     </div>
                 </div>
 
-                <div class="companyPage__faqItem faqItem--opened">
+                <div class="companyPage__faqItem faqItem faqItem--opened">
                     <div class="faqItem__question">
                         <span class="faqItem__questionExpander">-</span>
                         <span class="faqItem__questionText">How much money do I need to start cloud mining?</span>
@@ -323,14 +327,16 @@
 
             <div class="companyPage__reviews">
                 <div class="companyPage__reviewsItem reviewItem">
-                    <img class="reviewItem__avatar" src="media/images/reviewAvatar.png" alt="">
+                    <a href="/superiormining/user">
+                        <img class="reviewItem__avatar" src="media/images/reviewAvatar.png" alt="">
+                    </a>
                     <div class="reviewItem__text">
                         <h4 class="reviewItem__name">
                             Marti Lyle
                         </h4>
                         <p class="reviewItem__description">
-                            Jacob is finance staff writer, and columnist at Superior- Mining. He has written about cloud mining and other financial and investment
-                            topics since 2012. He previously wrote for several worldwide known businesses tabloids. Jacob currently works as a freelance business
+                            Marti is finance staff writer, and columnist at Superior- Mining. He has written about cloud mining and other financial and investment
+                            topics since 2012. He previously wrote for several worldwide known businesses tabloids. Marti currently works as a freelance business
                             producer for several big companies.
                         </p>
                     </div>

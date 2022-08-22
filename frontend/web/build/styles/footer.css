@@ -8,6 +8,14 @@
   justify-content: space-between;
   align-items: center;
 }
+.footer__info {
+  display: flex;
+  align-items: center;
+  column-gap: 30px;
+}
+.footer__info a {
+  color: #FFFFFF;
+}
 .footer__copyright {
   font-weight: 400;
   font-size: 16px;

@@ -21,22 +21,30 @@
 <?php $this->beginBody() ?>
 <header class="header container" >
     <div class="header__logo">
-        <img src="/media/images/headerLogo.png" alt="">
+        <a href="/">
+            <img src="/media/images/headerLogo.png" alt="">
+        </a>
     </div>
     <div class="header__menu">
-        <div class="header__menuToggler">
-            <img src="/media/images/arrow.svg" alt="">
-            <span>CALCULATORS<br />CRUNCH REAL NUMBERS</span>
-            <ul class="header__menuPages">
-                <li><a href="/broker/let-me-cloud">LetMeCloud </a></li>
-                <li><a href="/broker/iq-mining">IQMining </a></li>
-                <li><a href="/broker/ecos">Ecos </a></li>
-                <li><a href="/broker/gmining">Gmining </a></li>
-                <li><a href="/broker/hash-shiny">HashShiny </a></li>
-            </ul>
+        <div class="header__nav">
+            <div class="header__navToggler">
+                <img src="media/images/arrow.svg" alt="">
+                <span>CALCULATORS<br />CRUNCH REAL NUMBERS</span>
+            </div>
+            <div class="header__nav--opened nav">
+                <div class="nav__header"></div>
+                <ul class="nav__pages">
+                    <li><a href="/broker/let-me-cloud">LetMeCloud </a></li>
+                    <li><a href="/broker/iq-mining">IQMining </a></li>
+                    <li><a href="/broker/ecos">Ecos </a></li>
+                    <li><a href="/broker/gmining">Gmining </a></li>
+                    <li><a href="/broker/hash-shiny">HashShiny </a></li>
+                </ul>
+            </div>
         </div>
 <!--        <div class="header__search">-->
-<!--            <img src="/media/images/search.svg" alt="">-->
+<!--            <img src="media/images/search.svg" alt="">-->
+<!--            <input class="header__searchInput" />-->
 <!--        </div>-->
 <!--        <div class="header__signIn">-->
 <!--            <a href="">Sign in</a>-->
@@ -47,18 +55,8 @@
     </div>
 </header>
 
-<main class="container" >
-    <div class="brokerPage">
-        <div class="breadcrumbs">
-            <img class="breadcrumbs__home" src="/media/images/home.svg" alt="">
-            <span class="breadcrumbs__separator">/</span>
-            <span class="breadcrumbs__page">Brokers</span>
-        </div>
-
         <?= $content ?>
 
-    </div>
-</main>
 <footer class="footer">
     <div class="container">
         <img class="footer__logo" src="/media/images/footerLogo.png" alt="">
