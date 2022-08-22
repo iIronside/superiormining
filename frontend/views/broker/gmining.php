@@ -1,7 +1,7 @@
 <main class="container" >
     <div class="brokerPage">
         <div class="breadcrumbs">
-            <img class="breadcrumbs__home" src="media/images/home.svg" alt="">
+            <img class="breadcrumbs__home" src="../media/images/home.svg" alt="">
             <span class="breadcrumbs__separator">/</span>
             <span class="breadcrumbs__page">Gmining</span>
         </div>
@@ -42,8 +42,8 @@
                 </p>
             </div>
 
-            <div class="brokerRating__try">
-                <button class="brokerRating__tryButton">Try it now</button>
+            <div class="brokerItem__more">
+                <a href="https://hashing24.com/?rid=53616c7465645f5fad89785e9c28b834832f666b41823c1b">Try it now</a>
             </div>
         </div>
 

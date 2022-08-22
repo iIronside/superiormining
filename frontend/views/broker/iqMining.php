@@ -45,8 +45,8 @@
                 </p>
             </div>
 
-            <div class="brokerRating__try">
-                <button class="brokerRating__tryButton">Try it now</button>
+            <div class="brokerItem__more">
+                <a href="https://secure.iqmining.com/track/NjczOC42NS42NC40OTAuMC4wLjAuMC4wLjAuMC4w">Try it now</a>
             </div>
         </div>
 

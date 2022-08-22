@@ -12,6 +12,7 @@
     <link href="/build/styles/header.css" rel="stylesheet">
     <link href="/build/styles/footer.css" rel="stylesheet">
     <link href="/build/styles/brokerPage.css" rel="stylesheet">
+    <link href="/build/styles/brokerItem.css" rel="stylesheet">
     <link href="/build/styles/brokerRating.css" rel="stylesheet">
     <link href="/build/styles/reviewItem.css" rel="stylesheet">
     <link href="/build/styles/tariffItem.css" rel="stylesheet">

@@ -45,9 +45,9 @@
                     </p>
                 </div>
 
-                <div class="brokerRating__try">
-                    <button class="brokerRating__tryButton">Try it now</button>
-                </div>
+                <div class="brokerItem__more">
+                                <a href="https://ecos.am">Try it now</a>
+                            </div>
             </div>
 
             <div class="brokerPage__about">

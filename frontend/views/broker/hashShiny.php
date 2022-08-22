@@ -44,8 +44,8 @@
                 </p>
             </div>
 
-            <div class="brokerRating__try">
-                <button class="brokerRating__tryButton">Try it now</button>
+            <div class="brokerItem__more">
+                <a href="https://hashshiny.io/r/NL6848990">Try it now</a>
             </div>
         </div>
 

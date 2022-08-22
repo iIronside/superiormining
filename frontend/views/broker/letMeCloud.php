@@ -47,7 +47,9 @@
             </div>
 
             <div class="brokerRating__try">
-                <button class="brokerRating__tryButton">Try it now</button>
+                <div class="brokerItem__more">
+                    <a href="https://letmecloud.com/?aff=xbpv6b">Try it now</a>
+                </div>
             </div>
         </div>
 
