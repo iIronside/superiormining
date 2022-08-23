@@ -2,7 +2,7 @@
 <main>
     <div class="companyPage">
         <div class="companyPage__description container">
-            <h2 class="companyPage__title">5 Best Cloud Mining Sites <strong>Trading of 2022</strong></h2>
+            <h2 class="companyPage__title">5 Best Cloud Mining Sites <strong>2022</strong></h2>
             <p class="companyPage__about">
                 We tried several cloud mining platforms and chose five trustworthy websites withe the best pricing,
                 the widest diversity of services, and the most quality customer support.
@@ -67,7 +67,7 @@
             <h3 class="companyPage__brokersTitle"><strong>Best</strong> cloud mining sites 2022</h3>
 
             <div class="companyPage__brokersParams">
-                <span class="brokerParam--logo">Broker</span>
+                <span class="brokerParam--logo"></span>
                 <span class="brokerParam--rating">Wallet Rating</span>
                 <span class="brokerParam--contract">Minimum сontract</span>
                 <span class="brokerParam--profit">Profit per year</span>
