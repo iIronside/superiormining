@@ -112,7 +112,13 @@
                             <button>Open details</button>
                         </div>
                     </div>
-                    <div class="brokerItem__description"></div>
+                    <div class="brokerItem__description">
+                        <p>
+                            LET ME CLOUD ® is a British company with a head office in London that has offered cloud mining
+                            contracts since 2018. It provides over 25 thousand customers so far.
+                        </p>
+                        <a href="/broker/let-me-cloud">Read full review</a>
+                    </div>
                 </div>
 
                 <div class="companyPage__brokersRowsItem brokerItem brokerItem--expanded">
@@ -151,7 +157,7 @@
                             No matter how you look at it, IQMining seems like real pros in digital currency and mining.
                             If you are going to try yourself in cloud mining, their website can be exactly recommended.
                         </p>
-                        <a href="#">Read full review</a>
+                        <a href="/broker/iq-mining">Read full review</a>
                     </div>
                 </div>
 
@@ -186,7 +192,14 @@
                             <button>Open details</button>
                         </div>
                     </div>
-                    <div class="brokerItem__description"></div>
+                    <div class="brokerItem__description">
+                        <p>
+                            ECOS is a cloud mining provider that offers to rent hash power and the real capacity of mining
+                            equipment for individuals. It is a trusted infrastructural DeFi platform with over 100 thousand
+                            customers and 12 376 farm capacity.
+                        </p>
+                        <a href="/broker/ecos">Read full review</a>
+                    </div>
                 </div>
 
                 <div class="companyPage__brokersRowsItem brokerItem">
@@ -224,7 +237,13 @@
                             <button>Open details</button>
                         </div>
                     </div>
-                    <div class="brokerItem__description"></div>
+                    <div class="brokerItem__description">
+                        <p>
+                            Gmining is an online and mobile cloud mining company. Despite the platform being launched in
+                            2018, it has over three thousand active users so far who invest in digital cloud mining contracts.
+                        </p>
+                        <a href="/broker/gmining">Read full review</a>
+                    </div>
                 </div>
 
                 <div class="companyPage__brokersRowsItem brokerItem">
@@ -258,7 +277,14 @@
                             <button>Open details</button>
                         </div>
                     </div>
-                    <div class="brokerItem__description"></div>
+                    <div class="brokerItem__description">
+                        <p>
+                            HashShiny is a promising cloud mining platform that could be the best solution. The company serves over 2.8 million
+                            users so far. The main advantages of HashShiny are pretty low maintenance fees, guaranteed
+                            daily payouts, and the highest security level.
+                        </p>
+                        <a href="/broker/hash-shiny">Read full review</a>
+                    </div>
                 </div>
             </div>
 
