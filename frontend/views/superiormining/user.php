@@ -9,7 +9,7 @@
             Marti Lyle
         </h3>
         <p class="userPage__description">
-            Marti is a finance staff writer, reporter, and columnist at Superior-Mining. He has written aboutcloud mining and other financial and investment topics since 2012.
+            Marti is a finance staff writer, reporter, and columnist at Superior-Mining. He has written aboutcloud mining and other financial topics since 2012.
             He previously wrote forseveral worldwide known businesses tabloids. Marti currently works as a freelance business producer for several big companies.
         </p>
         <p class="userPage__description">
