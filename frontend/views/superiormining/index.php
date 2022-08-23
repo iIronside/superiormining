@@ -369,6 +369,9 @@
                             several worldwide known businesses tabloids. Marti currently works as a freelance business
                             producer for several big companies.
                         </p>
+                        <div class="brokerItem__review">
+                            <a a href="/superiormining/user">About author</a>
+                        </div>
                     </div>
                 </div>
             </div>

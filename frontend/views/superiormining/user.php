@@ -1,8 +1,8 @@
 <main class="container userPage">
     <div class="userPage__wrapper">
         <img class="userPage__avatar" src="../media/images/userAvatar.png" alt="">
-        <a class="userPage__link" href="">Linkedin</a>
-        <a class="userPage__link userPage__link--reviews" href="">Read last reviews</a>
+        <a class="userPage__link" href="https://www.linkedin.com/marti-lyle?_l=en_US">Linkedin</a>
+        <a class="userPage__link userPage__link--reviews" href="/">Read last reviews</a>
     </div>
     <div class="userPage__wrapper">
         <h3 class="userPage__name">
