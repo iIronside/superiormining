@@ -80,7 +80,7 @@
         </div>
 
         <div class="brokerPage__discount">
-            <button>RECEIVE SPECIAL PROMOTION DISCOUNT</button>
+            <a href="https://hashing24.com/?rid=53616c7465645f5fad89785e9c28b834832f666b41823c1b">RECEIVE SPECIAL PROMOTION DISCOUNT</a>
         </div>
 
         <div class="brokerPage__reviews">

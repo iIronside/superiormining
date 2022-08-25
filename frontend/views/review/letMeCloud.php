@@ -169,7 +169,7 @@
         </div>
 
         <div class="brokerPage__discount">
-            <button>RECEIVE SPECIAL PROMOTION DISCOUNT</button>
+            <a href="https://letmecloud.com/?aff=xbpv6b">RECEIVE SPECIAL PROMOTION DISCOUNT</a>
         </div>
 
         <div class="brokerPage__reviews">

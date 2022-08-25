@@ -85,8 +85,8 @@
             </div>
 
             <div class="brokerPage__discount">
-                <button>RECEIVE SPECIAL PROMOTION DISCOUNT</button>
-            </div>
+                        <a href="https://ecos.am">RECEIVE SPECIAL PROMOTION DISCOUNT</a>
+                    </div>
 
             <div class="brokerPage__reviews">
                 <div class="brokerPage__reviewsItem reviewItem">

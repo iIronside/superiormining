@@ -85,7 +85,7 @@
         </div>
 
         <div class="brokerPage__discount">
-            <button>RECEIVE SPECIAL PROMOTION DISCOUNT</button>
+            <a href="https://secure.iqmining.com/track/NjczOC42NS42NC40OTAuMC4wLjAuMC4wLjAuMC4w">RECEIVE SPECIAL PROMOTION DISCOUNT</a>
         </div>
 
         <div class="brokerPage__reviews">

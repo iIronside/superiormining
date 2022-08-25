@@ -89,7 +89,7 @@
                                 <span>5</span>
                             </div>
                             <div class="brokerItem__review">
-                                <a href="/broker/let-me-cloud">Read full review</a>
+                                <a href="/review/let-me-cloud">Read full review</a>
                             </div>
                         </div>
                         <div class="brokerItem__contract">
@@ -106,7 +106,7 @@
                             </div>
                         </div>
                         <div class="brokerItem__more">
-                            <a href="/broker/let-me-cloud">Learn more</a>
+                            <a href="/review/let-me-cloud">Learn more</a>
                         </div>
                         <div class="brokerItem__details">
                             <button>Open details</button>
@@ -117,7 +117,7 @@
                             LET ME CLOUD ® is a British company with a head office in London that has offered cloud mining
                             contracts since 2018. It provides over 25 thousand customers so far.
                         </p>
-                        <a href="/broker/let-me-cloud">Read full review</a>
+                        <a href="/review/let-me-cloud">Read full review</a>
                     </div>
                 </div>
 
@@ -133,7 +133,7 @@
                                 <span>5</span>
                             </div>
                             <div class="brokerItem__review">
-                                <a href="/broker/iq-mining">Read full review</a>
+                                <a href="/review/iq-mining">Read full review</a>
                             </div>
                         </div>
                         <div class="brokerItem__contract">
@@ -146,7 +146,7 @@
                             Available 5 years contracts
                         </div>
                         <div class="brokerItem__more">
-                            <a href="/broker/iq-mining">Learn more</a>
+                            <a href="/review/iq-mining">Learn more</a>
                         </div>
                         <div class="brokerItem__details">
                             <button>Close details</button>
@@ -157,7 +157,7 @@
                             No matter how you look at it, IQMining seems like real pros in digital currency and mining.
                             If you are going to try yourself in cloud mining, their website can be exactly recommended.
                         </p>
-                        <a href="/broker/iq-mining">Read full review</a>
+                        <a href="/review/iq-mining">Read full review</a>
                     </div>
                 </div>
 
@@ -173,7 +173,7 @@
                                 <span>5</span>
                             </div>
                             <div class="brokerItem__review">
-                                <a href="/broker/ecos">Read full review</a>
+                                <a href="/review/ecos">Read full review</a>
                             </div>
                         </div>
                         <div class="brokerItem__contract">
@@ -186,7 +186,7 @@
                             New User Get 50 TH/s Bonus for 1 month
                         </div>
                         <div class="brokerItem__more">
-                            <a href="/broker/ecos">Learn more</a>
+                            <a href="/review/ecos">Learn more</a>
                         </div>
                         <div class="brokerItem__details">
                             <button>Open details</button>
@@ -198,7 +198,7 @@
                             equipment for individuals. It is a trusted infrastructural DeFi platform with over 100 thousand
                             customers and 12 376 farm capacity.
                         </p>
-                        <a href="/broker/ecos">Read full review</a>
+                        <a href="/review/ecos">Read full review</a>
                     </div>
                 </div>
 
@@ -214,7 +214,7 @@
                                 <span>5</span>
                             </div>
                             <div class="brokerItem__review">
-                                <a a href="/broker/gmining">Read full review</a>
+                                <a a href="/review/gmining">Read full review</a>
                             </div>
                         </div>
                         <div class="brokerItem__contract">
@@ -231,7 +231,7 @@
                             </div>
                         </div>
                         <div class="brokerItem__more">
-                            <a href="/broker/gmining">Learn more</a>
+                            <a href="/review/gmining">Learn more</a>
                         </div>
                         <div class="brokerItem__details">
                             <button>Open details</button>
@@ -242,7 +242,7 @@
                             Gmining is an online and mobile cloud mining company. Despite the platform being launched in
                             2018, it has over three thousand active users so far who invest in digital cloud mining contracts.
                         </p>
-                        <a href="/broker/gmining">Read full review</a>
+                        <a href="/review/gmining">Read full review</a>
                     </div>
                 </div>
 
@@ -258,7 +258,7 @@
                                 <span>5</span>
                             </div>
                             <div class="brokerItem__review">
-                                <a href="/broker/hash-shiny">Read full review</a>
+                                <a href="/review/hash-shiny">Read full review</a>
                             </div>
                         </div>
                         <div class="brokerItem__contract">
@@ -271,7 +271,7 @@
                             New User Get 5 TH/S Hash Rate For Free
                         </div>
                         <div class="brokerItem__more">
-                            <a href="/broker/hash-shiny">Learn more</a>
+                            <a href="/review/hash-shiny">Learn more</a>
                         </div>
                         <div class="brokerItem__details">
                             <button>Open details</button>
@@ -283,7 +283,7 @@
                             users so far. The main advantages of HashShiny are pretty low maintenance fees, guaranteed
                             daily payouts, and the highest security level.
                         </p>
-                        <a href="/broker/hash-shiny">Read full review</a>
+                        <a href="/review/hash-shiny">Read full review</a>
                     </div>
                 </div>
             </div>

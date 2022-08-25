@@ -63,7 +63,10 @@
   display: flex;
   justify-content: center;
 }
-.brokerPage__discount button {
+.brokerPage__discount a {
+  color: #fff;
+  background-color: #77B42A;
+  text-align: center;
   width: 85%;
   min-width: 480px;
   height: 100%;

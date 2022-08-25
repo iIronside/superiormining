@@ -84,7 +84,7 @@
         </div>
 
         <div class="brokerPage__discount">
-            <button>RECEIVE SPECIAL PROMOTION DISCOUNT</button>
+            <a href="https://hashshiny.io/r/NL6848990">RECEIVE SPECIAL PROMOTION DISCOUNT</a>
         </div>
 
         <div class="brokerPage__reviews">

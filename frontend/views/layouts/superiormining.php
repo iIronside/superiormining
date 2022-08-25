@@ -7,7 +7,7 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Company</title>
+        <title>Superiormining</title>
         <link href="/build/styles/reset.css" rel="stylesheet">
         <link href="/build/styles/fonts.css" rel="stylesheet">
         <link href="/build/styles/index.css" rel="stylesheet">
