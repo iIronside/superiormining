@@ -71,21 +71,21 @@
 <script>
     const brokerDetailsComponents = document.querySelectorAll('.brokerItem__details');
     let detailsOpenedList = [
-        false, true, false, false, false
+        false, false, false, false, false
     ]
 
     for (let i=0; i < brokerDetailsComponents.length; i++) {
         brokerDetailsComponents[i].addEventListener('click', (e) => {
             e.currentTarget.closest('.brokerItem').classList.toggle('brokerItem--expanded');
-            detailsOpenedList[i] = ! detailsOpenedList[i];
-            const text = detailsOpenedList[i] ? 'Close details' : 'OpenDetails'
+            detailsOpenedList[i] = !detailsOpenedList[i];
+            const text = detailsOpenedList[i] ? 'Close details' : 'Open Details' ;
             e.currentTarget.querySelector('button').innerText = text;
         })
     }
 
     const faqComponents = document.querySelectorAll('.faqItem');
     let faqOpenedList = [
-        false, true, false, false, false, false, false,
+        false, false, false, false, false, false, false,
     ];
 
     for (let i=0; i < faqComponents.length; i++) {

@@ -121,7 +121,7 @@
                     </div>
                 </div>
 
-                <div class="companyPage__brokersRowsItem brokerItem brokerItem--expanded">
+                <div class="companyPage__brokersRowsItem brokerItem">
                     <div class="brokerItem__main">
                         <div class="brokerItem__logo">
                             <img class="brokerItem__logo--IQMining" src="media/images/IQMiningLogo.png" alt="">
@@ -149,7 +149,7 @@
                             <a href="/review/iq-mining">Learn more</a>
                         </div>
                         <div class="brokerItem__details">
-                            <button>Close details</button>
+                            <button>Open details</button>
                         </div>
                     </div>
                     <div class="brokerItem__description">
@@ -308,9 +308,9 @@
                     </div>
                 </div>
 
-                <div class="companyPage__faqItem faqItem faqItem--opened">
+                <div class="companyPage__faqItem faqItem">
                     <div class="faqItem__question">
-                        <span class="faqItem__questionExpander">-</span>
+                        <span class="faqItem__questionExpander">+</span>
                         <span class="faqItem__questionText">How much money do I need to start cloud mining?</span>
                     </div>
                     <div class="faqItem__answer">
