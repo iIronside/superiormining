@@ -38,11 +38,11 @@
             <div class="header__nav--opened nav">
                 <div class="nav__header"></div>
                 <ul class="nav__pages">
-                    <li><a href="/broker/let-me-cloud">LetMeCloud </a></li>
-                    <li><a href="/broker/iq-mining">IQMining </a></li>
-                    <li><a href="/broker/ecos">Ecos </a></li>
-                    <li><a href="/broker/gmining">Gmining </a></li>
-                    <li><a href="/broker/hash-shiny">HashShiny </a></li>
+                    <li><a href="/review/let-me-cloud">LetMeCloud </a></li>
+                    <li><a href="/review/iq-mining">IQMining </a></li>
+                    <li><a href="/review/ecos">Ecos </a></li>
+                    <li><a href="/review/gmining">Gmining </a></li>
+                    <li><a href="/review/hash-shiny">HashShiny </a></li>
                 </ul>
             </div>
         </div>
