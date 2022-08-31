@@ -85,7 +85,9 @@
 
         <div class="brokerPage__reviews">
             <div class="brokerPage__reviewsItem reviewItem">
-                <img class="reviewItem__avatar" src="../media/images/reviewAvatar.png" alt="">
+                <a href="/superiormining/user">
+                    <img class="reviewItem__avatar" src="../media/images/reviewAvatar.png" alt="">
+                </a>
                 <div class="reviewItem__text">
                     <h4 class="reviewItem__name">
                         Marti Lyle
@@ -95,6 +97,9 @@
                         several worldwide known businesses tabloids. Marti currently works as a freelance business
                         producer for several big companies.
                     </p>
+                    <div class="brokerItem__review">
+                        <a a href="/superiormining/user">About author</a>
+                    </div>
                 </div>
             </div>
         </div>

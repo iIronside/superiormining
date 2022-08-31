@@ -89,19 +89,24 @@
                     </div>
 
             <div class="brokerPage__reviews">
-                <div class="brokerPage__reviewsItem reviewItem">
-                    <img class="reviewItem__avatar" src="../media/images/reviewAvatar.png" alt="">
-                    <div class="reviewItem__text">
-                        <h4 class="reviewItem__name">
-                            Marti Lyle
-                        </h4>
-                        <p class="reviewItem__description">
-                            Marti is a finance staff writer, reporter, and columnist at Superior-Mining. He has written about cloud mining and other financial topics since 2012. He previously wrote for
-                            several worldwide known businesses tabloids. Marti currently works as a freelance business
-                            producer for several big companies.
-                        </p>
+                        <div class="brokerPage__reviewsItem reviewItem">
+                            <a href="/superiormining/user">
+                                <img class="reviewItem__avatar" src="../media/images/reviewAvatar.png" alt="">
+                            </a>
+                            <div class="reviewItem__text">
+                                <h4 class="reviewItem__name">
+                                    Marti Lyle
+                                </h4>
+                                <p class="reviewItem__description">
+                                    Marti is a finance staff writer, reporter, and columnist at Superior-Mining. He has written about cloud mining and other financial topics since 2012. He previously wrote for
+                                    several worldwide known businesses tabloids. Marti currently works as a freelance business
+                                    producer for several big companies.
+                                </p>
+                                <div class="brokerItem__review">
+                                    <a a href="/superiormining/user">About author</a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                </div>
-            </div>
         </div>
     </main>
